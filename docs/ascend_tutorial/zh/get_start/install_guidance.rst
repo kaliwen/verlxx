@@ -1,7 +1,7 @@
 昇腾安装指南
 =================
-
-Last updated: 11/06/2026.
+test skiil,aviod
+Last updated: 11/06/2027.
 
 .. contents:: 目录
    :local:
