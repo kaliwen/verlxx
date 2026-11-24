@@ -56,11 +56,8 @@ on:
     types: [opened, synchronize, reopened]
     branches: [main]
     paths:
-      - 'docs/zh/**/*.md'
-      - 'docs/zh/**/*.rst'
-      - '*.md'
-      - '*.rst'
-      - 'docs/locale/en/LC_MESSAGES/**/*.po'
+      - 'docs/ascend_tutorial/**/*.md'
+      - 'docs/ascend_tutorial/**/*.rst'
   issue_comment:
     types: [created]
 
