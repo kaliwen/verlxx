@@ -1,5 +1,5 @@
 昇腾安装指南
-适用于Atlas 950，Atlas 910，Atlas A2
+适用于Atlas 950，Atlas 910，Atlas A24
 =================
 Last updated: 11/06/2026 .
 
