@@ -3,12 +3,13 @@
 
 昇腾全面支持 verl 使用与开发，本文档全面介绍了如何在华为昇腾芯片 NPU 上使用 verl。
 
-Last updated: 05/14/2026.
+Last updated: 11/26/2026.
 
 ## 目录结构
 
 ```
 zh/
+|—— release_notes                  # 版本说明
 ├── get_start/                     # 快速入门指南
 ├── feature_support/               # 特性支持说明
 ├── model_support/                 # 模型支持说明
@@ -65,5 +66,6 @@ zh/
 
 ## 相关资源
 
+- [github社区](https://github.com/kaliwen/verlxx)
 - [verl 官方文档](https://verl.readthedocs.io/)
 - [昇腾开发者社区](https://www.hiascend.com/)
