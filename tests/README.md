@@ -4,7 +4,8 @@ Each folder under tests/ corresponds to a test category for a sub-namespace in v
 - `tests/trainer` for testing functionality related to `verl/trainer`
 - `tests/models` for testing functionality related to `verl/models`
 - ...
-
+- just not docs
+- have a look
 There are a few folders with `special_` prefix, created for special purposes:
 - `special_distributed`: unit tests that must run with multiple GPUs
 - `special_e2e`: end-to-end tests with training/generation scripts
