@@ -92,7 +92,7 @@ verl is fast with:
 </details>
 
 ## Key Features
-
+- **Mcore**，**FSDP2** supported
 - **FSDP**, **FSDP2** and **Megatron-LM** for training.
 - **vLLM**, **SGLang** and **HF Transformers** for rollout generation.
 - Compatible with Hugging Face Transformers and Modelscope Hub: Qwen3.5, Qwen3, Qwen-2.5, Llama3.1, Gemma2, DeepSeek-LLM, etc
